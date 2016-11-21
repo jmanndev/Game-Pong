@@ -1,0 +1,4 @@
+C:\Users\cert2it\Documents\PONG\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Projects\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Projects that work\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
